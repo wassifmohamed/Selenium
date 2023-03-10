@@ -1,0 +1,32 @@
+there are some important things that you should remember while selecting a locator...
+
+if a attribute value has a number in  it , it is better to avoid it and use an alternative locator !!!
+
+
+difference in linkText and partial link Text ?
+a partial link text you can use just a part , just make sure that it is Unique enough to stand out.
+
+
+
+
+
+
+-------------------------
+what  did we learn today ??
+ Locators :
+      locator sin Selenium help us to fin dWebElements
+
+      8 locators
+
+      id , name, className
+
+      Linktext , partialLinktext (they can only be used for <A> and it must also have some Text )
+      TagName (we just need to pass the tagname and it is going find that partcular webElement)
+
+      DOM document object model
+      here we have the whole code for the website
+
+      Scenario :
+
+      if there are two elements with the same attribute value what will happen ?
+      selenium going to get the first one encounters.
